@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Graydon Hoare <graydon@pobox.com>"]
 description = "An experiment in panic handling with setjmp/longjmp and arenas"
 license = "MIT OR Apache-2.0"
-repository = "http://github.com/graydon/panic-room"
+repository = "https://github.com/graydon/panic-room"
 keywords = ["panic", "setjmp", "longjmp", "arena"]
 
 [profile.release]
